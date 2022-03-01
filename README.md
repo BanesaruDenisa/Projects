@@ -1,4 +1,4 @@
-# Projects
+# Project
 
 Am realizat această bază de date cu scopul de a administra comenzile de aprovizionare a stoculuiunui depozit de produse cosmetice
 dar și pentru gestionarea comenzilor plasate de către magazinele cu care depozitul a  încheiat un contract.
